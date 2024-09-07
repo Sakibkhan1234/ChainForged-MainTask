@@ -1,0 +1,14 @@
+.menu-item 
+{
+  margin-top: 10%
+}
+.app-brand
+{
+  margin-top: 10%
+}
+.navbar-nav
+{
+   width: 15%;
+   display: flex;
+   justify-content: space-evenly;
+} 
